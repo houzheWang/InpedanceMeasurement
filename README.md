@@ -1,6 +1,6 @@
 # InpedanceMeasurement
 
-项目任务：利用自动平衡电桥设计一个简单的阻抗测量仪
-要求：能测量电阻，电容和电感以及一些组合的LCR电路在不同频率下的阻抗
+Task：Design a impedance measurement instumentation
+Requirements：which can measure the resistance, inductance and capacitance or some more complex LCR circuits. 
 
-本文件夹中含有上交学校的报告，PCB图，代码等
+PCB design, schematic diagrams, the report etc. are included. 
